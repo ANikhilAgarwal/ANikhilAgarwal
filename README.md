@@ -1,4 +1,6 @@
-### Hi there I am Nikhil Agarwal👋
+# Hello there!👋
+
+### Hi there I am Nikhil Agarwal
 
 <!--
 **ANikhilAgarwal/ANikhilAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
