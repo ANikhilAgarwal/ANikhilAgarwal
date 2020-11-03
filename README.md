@@ -1,6 +1,6 @@
 # Hello there!👋
 
-### Hi there I am Nikhil Agarwal
+### I am Nikhil Agarwal 🙋🏻‍♂️ ,a Linux Enthusiast, I have been exploring different trending technologies like web development, cloud computing, Data Science and Machine Learning.
 
 <!--
 **ANikhilAgarwal/ANikhilAgarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
