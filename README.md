@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANikhilAgarwal&layout=compact&show_icons=true)](https://github.com/ANikhilAgarwal/github-readme-stats)
 
 
-# Contact Me!📫
+# Contact Me!📌
 [![Github](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/git.svg)](https://github.com/ANikhilAgarwal)
 [![LinkedIN](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/ld.svg)](https://www.linkedin.com/in/nikhil-agarwal-/)
 [![YouTube](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/yt.svg)](https://www.youtube.com/channel/UCO_2BWhBDrhW1rFa7CfsFMg)
