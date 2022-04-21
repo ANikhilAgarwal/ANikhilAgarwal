@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{ANikhilAgarwal}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{ANikhilAgarwal}/count.svg)  
+  
+</a>
+<hr>
+
+
 # Github Activity📊:
 <table>
   <tr>
@@ -41,13 +51,3 @@ Here are some ideas to get you started:
 [![Github](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/git.svg)](https://github.com/ANikhilAgarwal)
 [![LinkedIN](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/ld.svg)](https://www.linkedin.com/in/nikhil-agarwal-/)
 [![YouTube](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/yt.svg)](https://www.youtube.com/channel/UCO_2BWhBDrhW1rFa7CfsFMg)
-
-<hr>
-<h3 align="center">Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{ANikhilAgarwal}/count.svg">
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{ANikhilAgarwal}/count.svg)  
-  
-</a>
-<hr>
-
