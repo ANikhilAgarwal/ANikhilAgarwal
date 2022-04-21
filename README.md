@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 <hr>
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{ANikhilAgarwal}/count.svg">
+  
   ![VisitorCount](https://profile-counter.glitch.me/{ANikhilAgarwal}/count.svg)  
+  
 </a>
 <hr>
 
