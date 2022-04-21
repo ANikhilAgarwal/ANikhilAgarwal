@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Contact Me!📌
+[![Github](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/git.svg)](https://github.com/ANikhilAgarwal)
+[![LinkedIN](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/ld.svg)](https://www.linkedin.com/in/nikhil-agarwal-/)
+[![YouTube](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/yt.svg)](https://www.youtube.com/channel/UCO_2BWhBDrhW1rFa7CfsFMg)
+
 <hr>
 <h3 align="center">Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{ANikhilAgarwal}/count.svg">
@@ -46,8 +51,3 @@ Here are some ideas to get you started:
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANikhilAgarwal&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
 </table>
-
-# Contact Me!📌
-[![Github](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/git.svg)](https://github.com/ANikhilAgarwal)
-[![LinkedIN](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/ld.svg)](https://www.linkedin.com/in/nikhil-agarwal-/)
-[![YouTube](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/yt.svg)](https://www.youtube.com/channel/UCO_2BWhBDrhW1rFa7CfsFMg)
