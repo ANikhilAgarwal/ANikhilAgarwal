@@ -40,7 +40,8 @@ Here are some ideas to get you started:
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ANikhilAgarwal&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ANikhilAgarwal&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+     <td>
+       [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ANikhilAgarwal)](https://github.com/ANikhilAgarwal/github-readme-stats)
   </td>
   </tr>
 </table>
@@ -51,3 +52,9 @@ Here are some ideas to get you started:
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANikhilAgarwal&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
 </table>
+
+<details>
+  <summary> <h4 align="center"> Quotes </h4> </summary>
+  ## ✍🏻 Start Your Day With Inspiring Quotes:
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</details>
