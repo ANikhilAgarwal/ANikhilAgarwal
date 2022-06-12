@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 
 <details>
   <summary> <h4 align="center"> Quotes </h4> </summary>
+ 
   ## ✍🏻 Start Your Day With Inspiring Quotes:
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=dark)
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
 </details>
