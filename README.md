@@ -41,7 +41,7 @@ Here are some ideas to get you started:
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ANikhilAgarwal&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
      <td>
-       [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ANikhilAgarwal)](https://github.com/ANikhilAgarwal/github-readme-stats)
+       [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NikhilAgarwal)](https://github.com/NikhilAgarwal/github-readme-stats)
   </td>
   </tr>
 </table>
