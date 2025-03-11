@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Contact Me!📌
 [![Github](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/git.svg)](https://github.com/ANikhilAgarwal)
 [![LinkedIN](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/ld.svg)](https://www.linkedin.com/in/nikhil-agarwal-/)
-[![YouTube](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/yt.svg)](https://www.youtube.com/channel/UCO_2BWhBDrhW1rFa7CfsFMg)
+<!--[![YouTube](https://raw.githubusercontent.com/ANikhilAgarwal/ANikhilAgarwal/master/badg/yt.svg)](https://www.youtube.com/channel/UCO_2BWhBDrhW1rFa7CfsFMg)-->
 
 <hr>
 <h3 align="center">Visitor Count</h3>
